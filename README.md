@@ -1,5 +1,4 @@
-# App-Gerenciamento-de-Tarefas
-Projeto Modulo 2 MIBM
+# App-Gerenciamento-de-Tarefas Projeto Modulo 2 MIBM
 
 Tive algumas dificuldades ao executar a Validação Datas e Horários, optei pela função datetime.strptime(), eliminando os erros...
 
